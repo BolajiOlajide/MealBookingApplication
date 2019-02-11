@@ -1,0 +1,25 @@
+{
+  "name": "meal-booking-api",
+  "version": "1.0.0",
+  "description": "a simple meal booking api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BolajiOlajide/MealBookingApplication.git"
+  },
+  "keywords": [
+    "meal",
+    "food",
+    "chop",
+    "chow"
+  ],
+  "author": "Bolaji Olajide <cooproton@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/BolajiOlajide/MealBookingApplication/issues"
+  },
+  "homepage": "https://github.com/BolajiOlajide/MealBookingApplication#readme"
+}
