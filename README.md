@@ -1,0 +1,5 @@
+# MealBookingApplication
+
+## SETUP
+
+## INSTALLATION INSTRUCTIONS
